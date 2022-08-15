@@ -46,6 +46,12 @@ export default {
       icons: false
     }
   ],
+  bootstrapVue: {
+    // icons: true // Install the IconsPlugin (in addition to BootStrapVue plugin
+    // Add the desired icon components to the `components` array
+    components: ['BIconSearch'],
+    componentPlugins: ['NavbarPlugin', 'LayoutPlugin', 'ButtonPlugin', 'FormPlugin', 'FormInputPlugin', 'ImagePlugin', 'BadgePlugin', 'LinkPlugin', 'TablePlugin', 'InputGroupPlugin', 'SpinnerPlugin', 'PaginationPlugin', 'PaginationNavPlugin']
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
