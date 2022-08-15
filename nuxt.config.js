@@ -42,6 +42,9 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/bootstrap
     "bootstrap-vue/nuxt",
+    {
+      icons: false
+    }
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
@@ -55,5 +58,8 @@ export default {
         },
       });
     },
+    babel: {
+      compact: true
+    }
   },
 };
