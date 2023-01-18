@@ -1,0 +1,30 @@
+[
+  {
+    "name": "gallery",
+    "path": "/gallery",
+    "component": "C:\\\\Users\\\\prate\\\\Documents\\\\GitHub\\\\Projects\\\\Vue Projects\\\\GalacticTranslator\\\\pages\\\\gallery.vue",
+    "chunkName": "pages/gallery",
+    "_name": "_19ee24ae"
+  },
+  {
+    "name": "philology",
+    "path": "/philology",
+    "component": "C:\\\\Users\\\\prate\\\\Documents\\\\GitHub\\\\Projects\\\\Vue Projects\\\\GalacticTranslator\\\\pages\\\\philology.vue",
+    "chunkName": "pages/philology",
+    "_name": "_47144976"
+  },
+  {
+    "name": "translatorApp",
+    "path": "/translatorApp",
+    "component": "C:\\\\Users\\\\prate\\\\Documents\\\\GitHub\\\\Projects\\\\Vue Projects\\\\GalacticTranslator\\\\pages\\\\translatorApp.vue",
+    "chunkName": "pages/translatorApp",
+    "_name": "_fc021cfa"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\prate\\\\Documents\\\\GitHub\\\\Projects\\\\Vue Projects\\\\GalacticTranslator\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_78da372e"
+  }
+]
